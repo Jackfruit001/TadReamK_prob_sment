@@ -1,0 +1,10 @@
+# Core Requirements
+numpy>=1.21.0
+tensorflow>=2.6.0
+matplotlib>=3.4.0
+scikit-image>=0.18.0  # For structural_similarity (SSIM)
+
+# Version Notes:
+# - TensorFlow 2.6+ for Keras integration
+# - Matplotlib for visualization
+# - NumPy for array operations
